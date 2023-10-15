@@ -1,0 +1,1 @@
+# installation-script-with-bash-script-ubuntu-mozilla-firefox
